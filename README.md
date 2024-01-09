@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Project (AlgoExpert)</b>
+- <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/TriandosM/Azure-SOC)
 
   
